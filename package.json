@@ -1,0 +1,30 @@
+{
+  "name": "cssauron-esprima",
+  "version": "0.0.0",
+  "description": "plain esprima bindings for cssauron",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/cssauron-esprima.git"
+  },
+  "keywords": [
+    "cssauron",
+    "esprima",
+    "selector",
+    "css"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us> (http://neversaw.us/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisdickinson/cssauron-esprima/issues"
+  },
+  "dependencies": {
+    "cssauron": "~1.1.0"
+  },
+  "devDependencies": {
+    "falafel": "~0.3.1"
+  }
+}
